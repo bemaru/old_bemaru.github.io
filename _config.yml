@@ -15,6 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # blog cover
+cover-image : "/assets/images/cover.jpg"
 cover: "/assets/images/cover.jpg"
 
 # Site Settings
